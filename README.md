@@ -8,7 +8,7 @@ I am learning how to write various programs professionally.
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
-[Software Demo Video]
+[Software Demo Video] <https://youtu.be/ho6FC8LAM2Y>
 
 ## Development Environment
 
@@ -17,4 +17,4 @@ C++ is a object oriented programming language.
 
 ## Useful Websites
 
-https://code.visualstudio.com/docs/languages/cpp
+<https://code.visualstudio.com/docs/languages/cpp>
